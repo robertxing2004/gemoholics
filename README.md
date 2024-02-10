@@ -1,2 +1,1 @@
-# gemoholics
-demo ecommerce site for gemoholics (BUSINESS 2257 feasibility project)
+demo ecommerce/info site for gemoholics (BUSINESS 2257 feasibility project)
